@@ -68,3 +68,4 @@ Repository- large collection of software able to be downloaded.
 
 [!apt_Command](apt_command.png)
 
+[!cheat_sheet](../../CheatSheets/Linux%20Workshop%20Ubuntu%20Software%20installation%20cheat%20sheet.png)
