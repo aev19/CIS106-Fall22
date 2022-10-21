@@ -29,3 +29,8 @@ CIS
     4. cp -r ~/Downloads/wallpapers ~/Pictures/
    
 ### Question 2 
+
+![q1](p1.png)
+![q1](p2.png)
+![q1](p3.png)
+![q1](p4.png)
